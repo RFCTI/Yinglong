@@ -3,14 +3,14 @@ Yinglong, an open source intelligence gathering and subscription system, develop
 
 Project address: https://github.com/RF-CTI/Yinglong
 
-## Environment:
+## Environment
 
 - Python 3.6+
 - Flask
 - Celery
 - Redis
 
-## Contributers:
+## Contributers
 
 - [Quanfita](https://github.com/Quanfita)
 - [RF&CTI](https://github.com/RFCTI)
